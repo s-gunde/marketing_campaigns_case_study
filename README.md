@@ -1,5 +1,6 @@
 # 📧 Personalized Customer Emails - DVD Rental Co
 
+
 ## 🚀 Overview
 Personalized customer emails based on marketing analytics are a game-changer for digital companies! 🎯 The leadership team at **DVD Rental Co** has launched its first-ever customer email campaign, and I'm analyzing the data needed to support this initiative.
 
