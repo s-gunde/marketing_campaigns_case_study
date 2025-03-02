@@ -2,6 +2,7 @@
 
 
 📌 Requirement #1
+
 Top 2 Categories
 For each customer, we need to identify the top 2 categories based on their past rental history.
 
@@ -10,6 +11,7 @@ Examples include travel and sci-fi as seen in the draft email.
 
 
 📌 Requirement #2
+
 Category Film Recommendations
 The marketing team has requested 3 most popular films for each customer's top 2 categories (excluding already viewed films).
 
@@ -20,8 +22,10 @@ Customers with no film recommendations for either category must be flagged so th
 
 
 📌 Requirement #3 & #4
+
 Individual Customer Insights
 📍 Top Category Insights (Requirement #3)
+
 For the 1st category, marketing requires:
 
 🎬 Total number of films watched in this category.
@@ -36,6 +40,7 @@ For the 2nd category, marketing requires:
 
 
 📌 Requirement #5
+
 Favorite Actor Recommendations
 Along with the top 2 categories, marketing has also requested top actor film recommendations:
 
@@ -50,6 +55,7 @@ Customers with no actor recommendations must be flagged separately for exclusion
 
 
 🎯 Final Notes
+
 ✔️ Ensure all calculations are accurate.
 ✔️ Follow the specified rounding rules.
 ✔️ Customers with no recommendations should be properly flagged.
