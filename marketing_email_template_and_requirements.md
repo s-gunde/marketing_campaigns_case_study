@@ -1,6 +1,6 @@
 # ✨ Project Requirements  
 
-## 📌 Requirement #1: Top 2 Categories  
+## Requirement #1: Top 2 Categories  
 For each customer, we need to identify the **top 2 categories** based on their past rental history.  
 
 - These **top categories** will drive marketing creative images.  
@@ -8,7 +8,7 @@ For each customer, we need to identify the **top 2 categories** based on their p
 
 ---
 
-## 📌 Requirement #2: Category Film Recommendations  
+## Requirement #2: Category Film Recommendations  
 The marketing team has requested the **3 most popular films** for each customer's **top 2 categories** _(excluding already viewed films)_.  
 
 ### 🔹 Rules:  
@@ -17,7 +17,7 @@ The marketing team has requested the **3 most popular films** for each customer'
 
 ---
 
-## 📌 Requirement #3 & #4: Individual Customer Insights  
+## Requirement #3 & #4: Individual Customer Insights  
 
 ### 📍 Top Category Insights (Requirement #3)  
 For the **1st category**, marketing requires:  
@@ -32,7 +32,7 @@ For the **2nd category**, marketing requires:
 
 ---
 
-## 📌 Requirement #5: Favorite Actor Recommendations  
+## Requirement #5: Favorite Actor Recommendations  
 Along with the **top 2 categories**, marketing has also requested **top actor film recommendations**:  
 - **Up to 3 additional films** should be recommended.  
 - The **total count of films watched by the top actor** should be included.  
