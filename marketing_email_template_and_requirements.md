@@ -1,7 +1,7 @@
-✨ Project Requirements
+✨ # Project Requirements
 
 
-📌 Requirement #1
+📌 ## Requirement #1
 
 Top 2 Categories
 For each customer, we need to identify the top 2 categories based on their past rental history.
@@ -10,7 +10,7 @@ These top categories will drive marketing creative images.
 Examples include travel and sci-fi as seen in the draft email.
 
 
-📌 Requirement #2
+📌 ## Requirement #2
 
 Category Film Recommendations
 The marketing team has requested 3 most popular films for each customer's top 2 categories (excluding already viewed films).
@@ -21,7 +21,7 @@ If there are less than 3 films available, marketing is fine with recommending at
 Customers with no film recommendations for either category must be flagged so they can be excluded from the email campaign (this is of high importance!).
 
 
-📌 Requirement #3 & #4
+📌 ## Requirement #3 & #4
 
 Individual Customer Insights
 📍 Top Category Insights (Requirement #3)
@@ -39,7 +39,7 @@ For the 2nd category, marketing requires:
 🔢 Proportion of total films watched (rounded to 0 decimal places).
 
 
-📌 Requirement #5
+📌 ## Requirement #5
 
 Favorite Actor Recommendations
 Along with the top 2 categories, marketing has also requested top actor film recommendations:
@@ -54,7 +54,7 @@ Any films already recommended in the top 2 categories must not be included in th
 Customers with no actor recommendations must be flagged separately for exclusion.
 
 
-🎯 Final Notes
+🎯 ## Final Notes
 
 ✔️ Ensure all calculations are accurate.
 ✔️ Follow the specified rounding rules.
